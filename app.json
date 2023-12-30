@@ -20,12 +20,16 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.lgdanmusacom.lgdanmusacom ",
+      "package": "com.lgdanmusacom.lgdanmusacom",
       "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {}
+    "extra": {
+      "eas": {
+        "projectId": "9678f566-0e5b-4410-a454-f1e07798a773"
+      }
+    }
   }
 }
